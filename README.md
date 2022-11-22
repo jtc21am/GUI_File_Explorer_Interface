@@ -1,4 +1,4 @@
-# GUI_File_Explorer_Interface
+# GUI File Explorer Interface
 
 Every computer has a file manager, i.e. File Explorer or Finder.  Having a GUI (graphical user interface) helps to access files.  
 
